@@ -1,8 +1,8 @@
 ---
-title: Database Definition
+title: Database
 description: The table layout for the DTTS SQLite database.
 published: true
-date: 2024-09-13T21:51:20.633Z
+date: 2024-09-13T21:58:04.068Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-13T21:51:20.633Z
