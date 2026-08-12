@@ -1,8 +1,8 @@
 ---
 title: Errors
 description: This pages shows the all the errors that could show up on the display.
-published: true
-date: 2024-09-13T21:52:37.546Z
+published: false
+date: 2026-08-12T17:43:14.086Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-13T21:52:37.546Z
