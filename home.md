@@ -2,19 +2,14 @@
 title: Home
 description: The home of the wiki.
 published: true
-date: 2024-09-13T22:02:59.039Z
+date: 2026-08-12T17:45:28.092Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-24T18:23:03.936Z
 ---
 
 # DoubleD Software
-You found the wiki page! All required information on our projects can be found here.
-
-
-## Projects
-### DTTS
-Currently, there is only one section about the DTTS project. Check out the [routes](/dtts/routes), [errors](/dtts/errors) and [database](/dtts/database) definitions!
+Currently, this wiki is unused. This may change with future projects.
 
 ---
 
